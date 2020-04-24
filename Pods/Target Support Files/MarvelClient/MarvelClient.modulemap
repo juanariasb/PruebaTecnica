@@ -1,0 +1,6 @@
+framework module MarvelClient {
+  umbrella header "MarvelClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
